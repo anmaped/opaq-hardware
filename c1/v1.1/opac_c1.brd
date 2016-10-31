@@ -6131,11 +6131,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="35.462" y="10.789" size="0.8128" layer="25" ratio="14" rot="R270"/>
 <attribute name="VALUE" x="37.932" y="12.211" size="1.27" layer="27" rot="R90"/>
 </element>
-<element name="R20" library="resistor" package="R0603" value="8.2k" x="34.6" y="7" smashed="yes">
+<element name="R20" library="resistor" package="R0603" value="24k" x="34.6" y="7" smashed="yes">
 <attribute name="NAME" x="33.611" y="5.389" size="0.8128" layer="25" ratio="14"/>
 <attribute name="VALUE" x="33.711" y="4.968" size="1.27" layer="27"/>
 </element>
-<element name="R21" library="resistor" package="R0603" value="24k" x="31.2" y="7" smashed="yes">
+<element name="R21" library="resistor" package="R0603" value="8.2k" x="31.2" y="7" smashed="yes">
 <attribute name="NAME" x="30.211" y="5.389" size="0.8128" layer="25" ratio="14"/>
 <attribute name="VALUE" x="30.311" y="4.968" size="1.27" layer="27"/>
 </element>

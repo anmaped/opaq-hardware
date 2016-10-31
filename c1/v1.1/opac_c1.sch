@@ -14285,8 +14285,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="C7" library="resistor" deviceset="C-EU" device="C0603" value="0.1uf"/>
 <part name="C8" library="resistor" deviceset="C-EU" device="C3216" value="10uf"/>
 <part name="GND14" library="SparkFun" deviceset="GND" device=""/>
-<part name="R20" library="resistor" deviceset="R-EU_" device="R0603" value="8.2k"/>
-<part name="R21" library="resistor" deviceset="R-EU_" device="R0603" value="24k"/>
+<part name="R20" library="resistor" deviceset="R-EU_" device="R0603" value="24k"/>
+<part name="R21" library="resistor" deviceset="R-EU_" device="R0603" value="8.2k"/>
 <part name="GND15" library="SparkFun" deviceset="GND" device=""/>
 <part name="C9" library="resistor" deviceset="C-EU" device="C3216" value="10uf"/>
 <part name="C10" library="resistor" deviceset="C-EU" device="C0603" value="0.1uf"/>
